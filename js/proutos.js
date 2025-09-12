@@ -8,12 +8,12 @@ export let salgado = [
     },
     {
         url: "images/produto/enroladinho_salsicha.png",
-        nome: "Enroladinho de Salsicha",
+        nome: "Enroladinho",
         preco: 6
     },
     {
         url: "images/produto/pao_recheado.png",
-        nome: "Pão Recheado/Folhado",
+        nome: "Pão Folhado",
         preco: 7
     },
     {
@@ -47,7 +47,7 @@ export let docesChocolate = [
 
     {
         url: "images/produto/pirulito.png",
-        nome: "Pirulitos Variados",
+        nome: "Pirulitos",
         preco: 1.5
     },
 
@@ -78,25 +78,25 @@ export let bebidas = [
 
     {
         url: "images/produto/coca.png",
-        nome: "Coca-Cola Lata",
+        nome: "Coca-Cola",
         preco: 6
     },
 
     {
         url: "images/produto/fanta_laranja.png",
-        nome: "Fanta Laranja Lata",
+        nome: "Fanta Laranja",
         preco: 6
     },
 
     {
         url: "images/produto/fanta_uva.jpg",
-        nome: "Fanta Uva Lata",
+        nome: "Fanta Uva",
         preco: 6
     },
 
     {
         url: "images/produto/pepsi.png",
-        nome: "Pepsi Lata",
+        nome: "Pepsi",
         preco: 6
     },
 
@@ -108,7 +108,7 @@ export let bebidas = [
     },
     {
         url: "images/produto/H2O.png",
-        nome: "Garrafa H2OH",
+        nome: "H2OH",
         preco: 3
     },
     {
@@ -118,7 +118,7 @@ export let bebidas = [
     },
     {
         url: "images/produto/maratinho.png",
-        nome: "Suco Maratinho",
+        nome: "Maratinho",
         preco: 5
     }
 ];
@@ -143,7 +143,7 @@ export let salgadinhos = [
 
     {
         url: "images/produto/solhit.png",
-        nome: "Sol Hits Queijo",
+        nome: "Hits Queijo",
         preco: 3.5
     },
 
@@ -154,4 +154,5 @@ export let salgadinhos = [
     }
 
 ];
+
 
