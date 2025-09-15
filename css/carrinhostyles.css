@@ -303,7 +303,7 @@ hr {
   aside {
     margin: 0px;
     margin-top: 30px;
-    width: 100%;
+    width: 80vw;
     display: flex;
     justify-content: center;
     flex-direction: column;
