@@ -313,11 +313,11 @@ hr {
 
 aside .box {
   margin-bottom: 0px;
-  width: 77%;
+  width: 430px;
 }
 
 aside button {
-  width: 77%;
+  width: 430px;
 }
 
 @media (min-width: 460px) and (max-width:510px) {
